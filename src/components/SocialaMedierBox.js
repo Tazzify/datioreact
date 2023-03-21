@@ -6,7 +6,6 @@ function SocialaMedierBox() {
                                 id="yt"
                                 className="sociala_medier"
                                 href="http://Youtube.com"
-                                target="_blank"
                         >
                                 <img
                                         className="sociala_medier"
@@ -18,7 +17,6 @@ function SocialaMedierBox() {
                         <a
                                 className="sociala_medier"
                                 href="http://Twitter.com"
-                                target="_blank"
                         >
                                 <img
                                         className="sociala_medier"
@@ -30,7 +28,6 @@ function SocialaMedierBox() {
                         <a
                                 className="sociala_medier"
                                 href="http://Facebook.com"
-                                target="_blank"
                         >
                                 <img
                                         className="sociala_medier"
@@ -42,7 +39,6 @@ function SocialaMedierBox() {
                         <a
                                 className="sociala_medier"
                                 href="http://Instagram.com"
-                                target="_blank"
                         >
                                 <img
                                         className="sociala_medier"
