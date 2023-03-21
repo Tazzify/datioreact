@@ -8,7 +8,7 @@ function ProductGrid() {
                         <ProductBox />
                         <ProductBox />
                         <ProductBox />
-                        <a href='index.html' className="next_products">&#10095;</a>
+                        <a href='https://witty-plant-001cc2d03.2.azurestaticapps.net/' className="next_products">&#10095;</a>
                 </div>
         );
 }
