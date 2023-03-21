@@ -8,8 +8,8 @@ function SlidesBox() {
           <img src="bilder/black_friday_pic.jpg" alt="Black Friday kampanjbild" />
         </Link>
       </div>
-      <a className="prev">&#10094;</a>
-      <a className="next">&#10095;</a>
+      <a href="index.html" className="prev">&#10094;</a>
+      <a href="index.html" className="next">&#10095;</a>
     </div>
   );
 }

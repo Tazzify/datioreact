@@ -8,7 +8,7 @@ function ProductGrid() {
                         <ProductBox />
                         <ProductBox />
                         <ProductBox />
-                        <a className="next_products">&#10095;</a>
+                        <a href='index.html' className="next_products">&#10095;</a>
                 </div>
         );
 }
