@@ -8,8 +8,8 @@ function SlidesBox() {
           <img src="bilder/black_friday_pic.jpg" alt="Black Friday kampanjbild" />
         </Link>
       </div>
-      <a href="https://witty-plant-001cc2d03.2.azurestaticapps.net/" className="prev">&#10094;</a>
-      <a href="https://witty-plant-001cc2d03.2.azurestaticapps.net/" className="next">&#10095;</a>
+      <a href="https://witty-plant-001cc2d03.2.azurestaticapps.net/" className="prev" style={{textDecoration:"none"}} >&#10094;</a>
+      <a href="https://witty-plant-001cc2d03.2.azurestaticapps.net/" className="next" style={{textDecoration:"none"}} >&#10095;</a>
     </div>
   );
 }

@@ -8,7 +8,7 @@ function ProductGrid() {
                         <ProductBox />
                         <ProductBox />
                         <ProductBox />
-                        <a href='https://witty-plant-001cc2d03.2.azurestaticapps.net/' className="next_products">&#10095;</a>
+                        <a href='https://witty-plant-001cc2d03.2.azurestaticapps.net/' className="next_products" style={{textDecoration:"none"}} >&#10095;</a>
                 </div>
         );
 }
